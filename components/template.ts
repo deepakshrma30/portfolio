@@ -1,4 +1,12 @@
-function emailTemplate({ name, email, message }: any) {
+function emailTemplate({
+  name,
+  email,
+  message,
+}: {
+  name: string;
+  email: string;
+  message: string;
+}) {
   return `
   <!DOCTYPE html>
   <html>

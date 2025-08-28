@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { Button } from "./ui/button";
-import { Label } from "./ui/label";
 import { Input } from "./ui/input";
 import { Card, CardContent } from "./ui/card";
 import { Textarea } from "./ui/textarea";
@@ -10,7 +9,6 @@ import { zodResolver } from "@hookform/resolvers/zod";
 import {
   Form,
   FormControl,
-  FormDescription,
   FormField,
   FormItem,
   FormLabel,

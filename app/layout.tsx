@@ -13,8 +13,35 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Deepak Sharma",
-  description: "Full Stack Developer",
+  title: "Deepak Sharma | Full Stack Developer",
+  description:
+    "Portfolio of Deepak Sharma, a passionate Full Stack Developer skilled in React, Next.js, Node.js, and modern web technologies. Explore my projects, experience, and contact details.",
+  keywords: [
+    "Deepak Sharma",
+    "Full Stack Developer",
+    "React Developer",
+    "Next.js Developer",
+    "Node.js Developer",
+    "Web Developer Portfolio",
+    "JavaScript Developer",
+  ],
+  authors: [{ name: "Deepak Sharma" }],
+  openGraph: {
+    title: "Deepak Sharma | Full Stack Developer",
+    description:
+      "Explore the portfolio of Deepak Sharma, a Full Stack Developer experienced in React, Next.js, Node.js, and modern web technologies.",
+    url: "https://your-domain.com", // replace with your actual domain
+    siteName: "Deepak Sharma Portfolio",
+
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Deepak Sharma | Full Stack Developer",
+    description:
+      "Full Stack Developer skilled in React, Next.js, and Node.js. Check out my portfolio and projects.",
+  },
 };
 
 export default function RootLayout({

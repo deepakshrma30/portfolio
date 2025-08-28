@@ -1,6 +1,5 @@
 "use client";
 
-import { Button } from "@/components/ui/button";
 import {
   Card,
   CardContent,
@@ -8,11 +7,9 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { Input } from "@/components/ui/input";
-import { Label } from "@/components/ui/label";
-import { Textarea } from "@/components/ui/textarea";
+
 import { Badge } from "@/components/ui/badge";
-import { Github, Linkedin, Mail, ExternalLink } from "lucide-react";
+import { Github, Linkedin, ExternalLink } from "lucide-react";
 import { useRef, useState } from "react";
 import { useInView, motion } from "motion/react";
 import Projoects from "@/lib/constants/projects.json";
