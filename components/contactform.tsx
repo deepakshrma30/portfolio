@@ -141,7 +141,7 @@ const Contactform = () => {
                       <FormControl>
                         <Textarea
                           id="message"
-                          placeholder="Tell me about your project..."
+                          placeholder="Write Your Message...."
                           className="min-h-[120px] border-gray-700 bg-gray-800/50 text-white placeholder:text-gray-500 focus:border-gray-500"
                           {...field}
                           onChange={(e) => {

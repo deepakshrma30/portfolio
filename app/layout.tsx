@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     title: "Deepak Sharma | Full Stack Developer",
     description:
       "Explore the portfolio of Deepak Sharma, a Full Stack Developer experienced in React, Next.js, Node.js, and modern web technologies.",
-    url: "https://your-domain.com", // replace with your actual domain
+    url: "https://deepak-portfolio-five.vercel.app/", // replace with your actual domain
     siteName: "Deepak Sharma Portfolio",
 
     locale: "en_US",
