@@ -1,0 +1,31 @@
+[
+  {
+    "title": "ED-Tech Platform",
+    "description": "A full-featured EdTech platform designed to sell online courses to students. It offers a secure and seamless user experience with features like authentication, payment integration, automated email notifications, and a responsive UI. Built with a modern tech stack to ensure scalability, performance, and reliability.",
+    "techStack": [
+      "Next.js",
+      "Tailwind CSS",
+      "React Hook Form",
+      "Java",
+      "Spring Boot",
+      "Tanstack Query"
+    ],
+    "link": "https://www.innoknowvex.in/"
+  },
+  {
+    "title": "Chat With Pdf",
+    "description": "A platform that allows users to chat with their PDF documents using natural language prompts powered by AI. Supports context-aware responses .",
+    "techStack": [
+      "Next.js",
+      "Tailwind CSS",
+      "React Hook Form",
+      "Postgres",
+      "Drizzle ORM",
+      "OPENAI API",
+      "Pinecone DB",
+      "Vector Database",
+      "Clerk Auth"
+    ],
+    "link": "https://pdf-analysis-helper.vercel.app/"
+  }
+]

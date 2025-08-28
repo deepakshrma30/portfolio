@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Frontend",
+    "tech": [
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      "Shadcn UI",
+      "Material UI",
+      "Framer Motion",
+      "Redux",
+      "Zustand",
+      "React Query",
+      "RTK Query",
+      "Scss"
+    ]
+  },
+  {
+    "title": "Backend",
+    "tech": [
+      "Node.js",
+      "Express",
+      "Next.js",
+      "Prisma",
+      "Drizzle",
+      "Mongoose",
+      "Socket.io"
+    ]
+  },
+  {
+    "title": "Database and Tools",
+    "tech": ["PostgreSQL", "MongoDB", "Docker", "AWS S3"]
+  }
+]
